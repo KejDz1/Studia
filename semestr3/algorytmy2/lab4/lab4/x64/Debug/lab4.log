@@ -1,0 +1,3 @@
+﻿  Źródło.cpp
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab4\lab4\Źródło.cpp(106,5): error C2760: błąd składniowy: element „}” był nieoczekiwany w tym miejscu; oczekiwano elementu „;”
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab4\lab4\Źródło.cpp(162,2): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „RBTree<T>” klasy klasa szablon

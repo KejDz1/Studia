@@ -1,0 +1,24 @@
+﻿  50940.algo2.lab05.main.cpp
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab5\lab5\50940.algo2.lab05.main.cpp(16,5): warning C4200: użyto niestandardowego rozszerzenia: tablica o rozmiarze zero w typie struct/union
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab5\lab5\50940.algo2.lab05.main.cpp(16,5): message : Ta składowa zostanie zignorowana przez domyślny konstruktor lub kopiujący/przenoszący operator przypisania
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab5\lab5\50940.algo2.lab05.main.cpp(91,44): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „HashTable<int>” klasy klasa szablon
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab5\lab5\50940.algo2.lab05.main.cpp(82,1): warning C4154: usunięcie wyrażenia tablicowego; dostarczono konwersji do wskaźnika
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab5\lab5\50940.algo2.lab05.main.cpp(75,1): message : podczas kompilowania funkcji składowej „void HashTable<int>::deleteAll(void)” klasy klasa szablon
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab5\lab5\50940.algo2.lab05.main.cpp(93,18): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void HashTable<int>::deleteAll(void)” funkcji szablon
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab5\lab5\50940.algo2.lab05.main.cpp(91,44): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „HashTable<int>” klasy klasa szablon
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab5\lab5\50940.algo2.lab05.main.cpp(39,26): error C2440: "=": nie można konwertować z "LinkedList<H> *" na "H *"
+          with
+          [
+              H=int
+          ]
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab5\lab5\50940.algo2.lab05.main.cpp(39,26): message : Wskazane typy nie są powiązane; konwersja wymaga operatora reinterpret_cast, rzutowania w stylu języka C lub rzutowania w stylu funkcji ujętego w nawiasach
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab5\lab5\50940.algo2.lab05.main.cpp(35,1): message : podczas kompilowania funkcji składowej „void HashTable<int>::newNode(std::string,H)” klasy klasa szablon
+          with
+          [
+              H=int
+          ]
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab5\lab5\50940.algo2.lab05.main.cpp(92,16): message : zobacz odwołanie do kompilowanego tworzenia wystąpienia „void HashTable<int>::newNode(std::string,H)” funkcji szablon
+          with
+          [
+              H=int
+          ]

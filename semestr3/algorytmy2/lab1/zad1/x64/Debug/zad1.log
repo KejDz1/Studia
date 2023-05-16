@@ -1,0 +1,6 @@
+﻿  zad1.cpp
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab1\zad1\zad1.cpp(385,33): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab1\zad1\zad1.cpp(385,28): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab1\zad1\zad1.cpp(397,35): warning C4244: "inicjowanie": konwersja z "double" do "int", możliwa utrata danych
+C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab1\zad1\zad1.cpp(397,30): warning C4244: "inicjowanie": konwersja z "double" do "const int", możliwa utrata danych
+  zad1.vcxproj -> C:\Users\kacpe\Desktop\STUDIA\algorytmy2\lab1\zad1\x64\Debug\zad1.exe
